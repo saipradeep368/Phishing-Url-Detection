@@ -68,6 +68,4 @@ Machine learning models learn patterns from these features to classify URLs 2
 
 Among these, Random Forest often gives the best performance in phishing detection tasks 3.
 
----
 
-## 🧠 Workflow
