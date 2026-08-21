@@ -1,5 +1,3 @@
-Absolutely. For your repository, I would keep the README **clean, professional, recruiter-friendly, and project-focused** rather than using excessive badges, emojis, or decorative sections.
-
 # Phishing URL Detection Using Machine Learning
 
 A Machine Learning-based web application that analyzes URL characteristics and classifies a URL as **legitimate or potentially phishing**.
